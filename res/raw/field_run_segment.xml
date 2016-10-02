@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<run_segments>
+    <run_segment>
+           <name>Leg 1</name>
+           <start_theta>0</start_theta>
+           <end_theta>45</end_theta>
+    </run_segment>
+    <run_segment>
+           <name>Leg 1</name>
+           <start_theta>45</start_theta>
+           <end_theta>90</end_theta>
+    </run_segment>
+        <run_segment>
+           <name>Leg 2</name>
+           <start_theta>80</start_theta>
+           <end_theta>135</end_theta>
+    </run_segment>
+    
+            <run_segment>
+           <name>Leg 2</name>
+           <start_theta>135</start_theta>
+           <end_theta>180</end_theta>
+    </run_segment>
+    
+        <run_segment>
+           <name>Leg 2</name>
+           <start_theta>180</start_theta>
+           <end_theta>225</end_theta>
+    </run_segment>
+    
+          
+        <run_segment>
+           <name>Leg 2</name>
+           <start_theta>225</start_theta>
+           <end_theta>270</end_theta>
+    </run_segment>
+    
+     <run_segment>
+           <name>Leg 2</name>
+           <start_theta>270</start_theta>
+           <end_theta>315</end_theta>
+    </run_segment>
+    
+          <run_segment>
+           <name>Leg 2</name>
+           <start_theta>315</start_theta>
+           <end_theta>360</end_theta>
+    </run_segment>
+    
+    
+</run_segments>

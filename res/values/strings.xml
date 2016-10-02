@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenGLESWagonWheel</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<color name="colorRun0">#800000</color>
+    <color name="colorRun1">#2e00c5 	</color>
+    <color name="colorRun2">#74d600	</color>
+    <color name="colorRun3">#395075	</color>
+    <color name="colorRun4">	#ff0065 </color>
+    <color name="colorRun5">#ff0065 	</color>
+    <color name="colorRun6">#daa520	</color>
+
+</resources>

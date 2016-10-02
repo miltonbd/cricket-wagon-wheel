@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<field_positions>
+    <field_position>
+           <name>Wicket Keeper</name>
+            <x>-2</x>
+            <y>30</y>
+            <selected>1</selected>
+    </field_position>
+
+    <field_position>
+		<name>Sleep 1</name>
+	    <x>-4</x>
+        <y>33</y>
+        <selected>1</selected>
+    </field_position>
+    
+    <field_position>
+        <name>Sleep 2</name>
+        <x>-10</x>
+        <y>30</y>
+            <selected>1</selected>
+    </field_position>
+    
+        
+    <field_position>
+        <name>Sleep 3</name>
+        <x>5</x>
+        <y>45</y>
+            <selected>1</selected>
+    </field_position>
+    
+    
+    <field_position>
+        <name>Sleep 4</name>
+        <x>5</x>
+        <y>45</y>
+            <selected>1</selected>
+    </field_position>
+
+        
+    <field_position>
+        <name>Gully</name>
+        <x>5</x>
+        <y>-45</y>
+            <selected>1</selected>
+    </field_position>
+    
+        
+    <field_position>
+        <name>Leg Sleep</name>
+        <x>-5</x>
+        <y>-45</y>
+            <selected>1</selected>
+    </field_position>
+    
+        
+    <field_position>
+        <name>Silly Point</name>
+        <x>35</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+        
+    <field_position>
+        <name>Silly Mid Off</name>
+        <x>25</x>
+        <y>-20</y>
+            <selected>1</selected>
+    </field_position>
+    
+    <field_position>
+        <name>Short Leg</name>
+        <x>25</x>
+        <y>-20</y>
+            <selected>1</selected>
+    </field_position>
+    
+            
+    <field_position>
+        <name>Silly Mid On</name>
+        <x>25</x>
+        <y>-20</y>
+            <selected>1</selected>
+    </field_position>
+    
+        
+      <field_position>
+        <name>Long Stop</name>
+        <x>25</x>
+        <y>-20</y>
+            <selected>1</selected>
+    </field_position>
+    
+          
+        <field_position>
+        <name>Fine Leg</name>
+        <x>25</x>
+        <y>-20</y>
+            <selected>-1</selected>
+    </field_position>
+    
+            
+        <field_position>
+        <name>Long Leg</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+            
+        <field_position>
+        <name>Deep Backward Square Leg</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+        
+            
+        <field_position>
+        <name>Deep  Square Leg</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+                    
+        <field_position>
+        <name>  Deep Mid Wicket</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+                <field_position>
+        <name>  Cow Corner</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+                
+                        <field_position>
+        <name>  Long On</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+
+        
+                
+    <field_position>
+        <name>  Long Off</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+
+                
+    <field_position>
+        <name>  Deep Extra Cover</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+        
+                
+    <field_position>
+        <name>  Deep Cover</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+   
+            
+                
+    <field_position>
+        <name>  Sweeper</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+   
+     
+                
+    <field_position>
+        <name>  Third Man</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+    
+         
+                
+    <field_position>
+        <name>  Fly Slip </name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+         
+                
+    <field_position>
+        <name>  Short Fine Leg</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+                          
+                
+    <field_position>
+        <name>  Short Backward Square Leg</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+                
+    <field_position>
+        <name>  Square Leg</name>
+        <x>25</x>
+          <selected>-1</selected>
+        <y>-20</y>
+    </field_position>
+       
+                
+    <field_position>
+        <name>  Mid Wicket </name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+                
+    <field_position>
+        <name> Mid On</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+                
+    <field_position>
+        <name>  Bowler</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+         
+                
+    <field_position>
+        <name>  Mid Off</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+    
+        
+    <field_position>
+        <name>  Extra Cover</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+         
+                
+    <field_position>
+        <name>  Short Mid Off</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+    
+    <field_position>
+        <name>  Cover</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+                
+    <field_position>
+        <name>  Cover Point</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+          
+    <field_position>
+        <name>  Point</name>
+        <x>25</x>
+        <y>-20</y>
+          <selected>-1</selected>
+    </field_position>
+    
+    
+</field_positions>

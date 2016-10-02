@@ -1,0 +1,144 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.opengleswagonwheel.MainActivity$PlaceholderFragment" android:id="@+id/mainRelativeLayout">
+
+    <LinearLayout
+        android:id="@+id/runsColor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" 
+            android:padding="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal" android:layout_marginBottom="5dp" >
+
+                
+                
+                                <TextView
+                    android:id="@+id/TextView0311"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@color/colorRun0" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="  0 " />
+                
+                
+                
+                
+                <TextView
+                    android:id="@+id/TextView03"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@color/colorRun1" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="  1 " />
+
+                <TextView
+                    android:id="@+id/TextView02"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@color/colorRun2" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="  2 " />
+
+                <TextView
+                    android:id="@+id/textColor1"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@color/colorRun3" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="  3 " />
+
+                <TextView
+                    android:id="@+id/TextView01"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@color/colorRun4" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="  4 " />
+
+                <TextView
+                    android:id="@+id/textColor2"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:background="@color/colorRun6" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text=" 6 " />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+   <LinearLayout
+       android:id="@+id/myGLSurfaceView1"
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:layout_alignParentLeft="true"
+       android:layout_alignParentRight="true"
+       android:orientation="vertical" 
+       android:layout_below="@+id/runsColor">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/fourSixLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+      
+        android:orientation="horizontal" 
+        android:layout_below="@+id/myGLSurfaceView1"
+        android:padding="5dp" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total 4: " />
+
+        <TextView
+            android:id="@+id/fours"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0" 
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="   Total 6: " />
+
+        <TextView
+            android:id="@+id/six"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+             android:textStyle="bold" />
+    </LinearLayout>
+
+</RelativeLayout>
